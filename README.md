@@ -60,4 +60,5 @@ Practica 01
 
 8. Flujo de trabajo (navegador,petición,servidor y respuesta):
 
-![U+200E](LINK FOTO "imagen")
+![Imagen](https://github.com/MigueelHub/SMX2-M8UF1A2-Evaluacion-inicial/blob/main/Captura%20de%20pantalla%202023-09-29%20171558.png)
+
